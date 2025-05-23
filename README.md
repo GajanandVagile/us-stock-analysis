@@ -53,5 +53,6 @@ Monte Carlo Simulation: Simulated thousands of future price paths to estimate ri
 
 📄 Full Report & Code
 
-📂 GitHub Repository: [Insert your GitHub link here]
+📂 GitHub Repository: [(https://github.com/GajanandVagile/us-stock-analysis/tree/main)]
+
 📘 Project Report: [Insert link to full report or Jupyter Notebook]
